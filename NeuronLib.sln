@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuronLib", "NeuronLib\NeuronLib.csproj", "{B7FF6B4D-5630-4C86-8763-C0A27D207F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNeuralNetwork", "SimpleNeuralNetwork\SimpleNeuralNetwork.csproj", "{32A6B19A-23AB-4867-9FC6-2D7FF8802694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7FF6B4D-5630-4C86-8763-C0A27D207F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FF6B4D-5630-4C86-8763-C0A27D207F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FF6B4D-5630-4C86-8763-C0A27D207F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FF6B4D-5630-4C86-8763-C0A27D207F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A6B19A-23AB-4867-9FC6-2D7FF8802694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A6B19A-23AB-4867-9FC6-2D7FF8802694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A6B19A-23AB-4867-9FC6-2D7FF8802694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A6B19A-23AB-4867-9FC6-2D7FF8802694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
